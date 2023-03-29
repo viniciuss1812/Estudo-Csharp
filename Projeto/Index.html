@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script defer src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" integrity="sha384-rOA1PnstxnOBLzCLMcre8ybwbTmemjzdNlILg8O7z1lUkLXozs4DHonlDtnE7fpc" crossorigin="anonymous"></script>
+    <title>Player de Música</title>
+    <link rel="icon" href="./images/spotify.png">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <img src="https://m.media-amazon.com/images/I/71VJwUwpOzL._AC_SL1400_.jpg">
+    <div class="descrição"> 
+        <h2>Born This Way</h2>
+        <i>Lady Gaga</i>
+    </div>
+
+    <div class="duracao">
+        <div class="barra">
+            <progress value="0" max="1"></progress>
+            <div class="ponto"></div>
+        </div>
+
+        <div class="tempo">
+            <p class="inicio">0:00</p>
+            <p class="fim">4:26</p>
+        </div>
+    </div>
+
+    <div class="player">
+        <i class="fas fa-step-backward setas anterior"></i>
+        <i class="fas fa-play-circle botao-play" onclick="tocarMusica()"></i>
+        <i class="fas fa-pause-circle botao-pause" onclick="pausarMusica()"></i>
+        <i class="fas fa-step-forward setas proximo"></i>
+    </div>
+
+    <audio id="audio" src="X2Download.app - Lady Gaga - Born This Way (Tradução_Legendado) (128 kbps).mp3" ></audio>
+    <script src="script.js"></script>
+</body>
+</html>
