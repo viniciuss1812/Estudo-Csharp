@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Botão asp.props" />
+</Project>

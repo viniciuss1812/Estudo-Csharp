@@ -1,0 +1,31 @@
+C:\Users\android\Documents\teste ASP\Teste botão ASP\Botão asp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\android\Documents\teste ASP\Teste botão ASP\Botão asp\bin\Debug\net6.0\appsettings.json
+C:\Users\android\Documents\teste ASP\Teste botão ASP\Botão asp\bin\Debug\net6.0\Botão asp.staticwebassets.runtime.json
+C:\Users\android\Documents\teste ASP\Teste botão ASP\Botão asp\bin\Debug\net6.0\Botão asp.exe
+C:\Users\android\Documents\teste ASP\Teste botão ASP\Botão asp\bin\Debug\net6.0\Botão asp.deps.json
+C:\Users\android\Documents\teste ASP\Teste botão ASP\Botão asp\bin\Debug\net6.0\Botão asp.runtimeconfig.json
+C:\Users\android\Documents\teste ASP\Teste botão ASP\Botão asp\bin\Debug\net6.0\Botão asp.dll
+C:\Users\android\Documents\teste ASP\Teste botão ASP\Botão asp\bin\Debug\net6.0\Botão asp.pdb
+C:\Users\android\Documents\teste ASP\Teste botão ASP\Botão asp\obj\Debug\net6.0\Botão asp.csproj.AssemblyReference.cache
+C:\Users\android\Documents\teste ASP\Teste botão ASP\Botão asp\obj\Debug\net6.0\Botão asp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Documents\teste ASP\Teste botão ASP\Botão asp\obj\Debug\net6.0\Botão asp.AssemblyInfoInputs.cache
+C:\Users\android\Documents\teste ASP\Teste botão ASP\Botão asp\obj\Debug\net6.0\Botão asp.AssemblyInfo.cs
+C:\Users\android\Documents\teste ASP\Teste botão ASP\Botão asp\obj\Debug\net6.0\Botão asp.csproj.CoreCompileInputs.cache
+C:\Users\android\Documents\teste ASP\Teste botão ASP\Botão asp\obj\Debug\net6.0\Botão asp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\android\Documents\teste ASP\Teste botão ASP\Botão asp\obj\Debug\net6.0\Botão asp.RazorAssemblyInfo.cache
+C:\Users\android\Documents\teste ASP\Teste botão ASP\Botão asp\obj\Debug\net6.0\Botão asp.RazorAssemblyInfo.cs
+C:\Users\android\Documents\teste ASP\Teste botão ASP\Botão asp\obj\Debug\net6.0\staticwebassets\msbuild.Botão asp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\android\Documents\teste ASP\Teste botão ASP\Botão asp\obj\Debug\net6.0\staticwebassets\msbuild.build.Botão asp.props
+C:\Users\android\Documents\teste ASP\Teste botão ASP\Botão asp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Botão asp.props
+C:\Users\android\Documents\teste ASP\Teste botão ASP\Botão asp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Botão asp.props
+C:\Users\android\Documents\teste ASP\Teste botão ASP\Botão asp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\android\Documents\teste ASP\Teste botão ASP\Botão asp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\android\Documents\teste ASP\Teste botão ASP\Botão asp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\android\Documents\teste ASP\Teste botão ASP\Botão asp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\android\Documents\teste ASP\Teste botão ASP\Botão asp\obj\Debug\net6.0\scopedcss\bundle\Botão asp.styles.css
+C:\Users\android\Documents\teste ASP\Teste botão ASP\Botão asp\obj\Debug\net6.0\scopedcss\projectbundle\Botão asp.bundle.scp.css
+C:\Users\android\Documents\teste ASP\Teste botão ASP\Botão asp\obj\Debug\net6.0\Botão asp.dll
+C:\Users\android\Documents\teste ASP\Teste botão ASP\Botão asp\obj\Debug\net6.0\refint\Botão asp.dll
+C:\Users\android\Documents\teste ASP\Teste botão ASP\Botão asp\obj\Debug\net6.0\Botão asp.pdb
+C:\Users\android\Documents\teste ASP\Teste botão ASP\Botão asp\obj\Debug\net6.0\Botão asp.genruntimeconfig.cache
+C:\Users\android\Documents\teste ASP\Teste botão ASP\Botão asp\obj\Debug\net6.0\ref\Botão asp.dll
