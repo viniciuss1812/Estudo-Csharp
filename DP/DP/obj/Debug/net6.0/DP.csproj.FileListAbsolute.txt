@@ -1,0 +1,14 @@
+C:\Users\fusion\Documents\aula sababp\DP\DP\bin\Debug\net6.0\DP.exe
+C:\Users\fusion\Documents\aula sababp\DP\DP\bin\Debug\net6.0\DP.deps.json
+C:\Users\fusion\Documents\aula sababp\DP\DP\bin\Debug\net6.0\DP.runtimeconfig.json
+C:\Users\fusion\Documents\aula sababp\DP\DP\bin\Debug\net6.0\DP.dll
+C:\Users\fusion\Documents\aula sababp\DP\DP\bin\Debug\net6.0\DP.pdb
+C:\Users\fusion\Documents\aula sababp\DP\DP\obj\Debug\net6.0\DP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fusion\Documents\aula sababp\DP\DP\obj\Debug\net6.0\DP.AssemblyInfoInputs.cache
+C:\Users\fusion\Documents\aula sababp\DP\DP\obj\Debug\net6.0\DP.AssemblyInfo.cs
+C:\Users\fusion\Documents\aula sababp\DP\DP\obj\Debug\net6.0\DP.csproj.CoreCompileInputs.cache
+C:\Users\fusion\Documents\aula sababp\DP\DP\obj\Debug\net6.0\DP.dll
+C:\Users\fusion\Documents\aula sababp\DP\DP\obj\Debug\net6.0\refint\DP.dll
+C:\Users\fusion\Documents\aula sababp\DP\DP\obj\Debug\net6.0\DP.pdb
+C:\Users\fusion\Documents\aula sababp\DP\DP\obj\Debug\net6.0\DP.genruntimeconfig.cache
+C:\Users\fusion\Documents\aula sababp\DP\DP\obj\Debug\net6.0\ref\DP.dll
