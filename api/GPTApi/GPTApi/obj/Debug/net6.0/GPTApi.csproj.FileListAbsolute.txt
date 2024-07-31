@@ -1,0 +1,14 @@
+C:\Users\fusion\Documents\api\GPTApi\GPTApi\bin\Debug\net6.0\GPTApi.exe
+C:\Users\fusion\Documents\api\GPTApi\GPTApi\bin\Debug\net6.0\GPTApi.deps.json
+C:\Users\fusion\Documents\api\GPTApi\GPTApi\bin\Debug\net6.0\GPTApi.runtimeconfig.json
+C:\Users\fusion\Documents\api\GPTApi\GPTApi\bin\Debug\net6.0\GPTApi.dll
+C:\Users\fusion\Documents\api\GPTApi\GPTApi\bin\Debug\net6.0\GPTApi.pdb
+C:\Users\fusion\Documents\api\GPTApi\GPTApi\obj\Debug\net6.0\GPTApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fusion\Documents\api\GPTApi\GPTApi\obj\Debug\net6.0\GPTApi.AssemblyInfoInputs.cache
+C:\Users\fusion\Documents\api\GPTApi\GPTApi\obj\Debug\net6.0\GPTApi.AssemblyInfo.cs
+C:\Users\fusion\Documents\api\GPTApi\GPTApi\obj\Debug\net6.0\GPTApi.csproj.CoreCompileInputs.cache
+C:\Users\fusion\Documents\api\GPTApi\GPTApi\obj\Debug\net6.0\GPTApi.dll
+C:\Users\fusion\Documents\api\GPTApi\GPTApi\obj\Debug\net6.0\refint\GPTApi.dll
+C:\Users\fusion\Documents\api\GPTApi\GPTApi\obj\Debug\net6.0\GPTApi.pdb
+C:\Users\fusion\Documents\api\GPTApi\GPTApi\obj\Debug\net6.0\GPTApi.genruntimeconfig.cache
+C:\Users\fusion\Documents\api\GPTApi\GPTApi\obj\Debug\net6.0\ref\GPTApi.dll
